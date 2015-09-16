@@ -8,7 +8,7 @@ A community-maintained list of open-source FRC DriverStation projects. Feel free
 - [QDriverStation](https://github.com/WinT-3794/QDriverStation) by Team 3794 (WinT)
 - [node-driverstation15](https://github.com/gluxon/node-driverstation15) by Brandon Cheng
 
-# 2009-2014 Projects
+# 2014 Projects
 
 - [DriverStation.js](https://github.com/gluxon/DriverStation.js) by Brandon Cheng
 - [JDriverStation](https://github.com/RobotsByTheC/JDriverStation) by Team 2084 (RobotsByTheC)
