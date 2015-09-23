@@ -7,7 +7,7 @@ A community-maintained list of open-source FRC DriverStation projects. Feel free
 - [RoboDS](https://github.com/RobotsByTheC/RoboDS) by Team 2084 (RobotsByTheC) and Team 2657
 - [QDriverStation](https://github.com/WinT-3794/QDriverStation) by Team 3794 (WinT)
 - [node-driverstation15](https://github.com/gluxon/node-driverstation15) by Brandon Cheng
-- [RioComAPI](https://github.com/raystubbs/RioComAPI)
+- [RioComAPI](https://github.com/raystubbs/RioComAPI) by Ray Stubbs
 
 # 2009-2014 Projects
 
